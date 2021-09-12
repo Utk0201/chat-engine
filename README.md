@@ -1,15 +1,13 @@
-# Unichat Application
-
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
-
 ## Introduction
+This chat room enables user to set up a chat room with multiple (upto 25) users at a time.
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+For running the app on your local pc, follow these steps:
+* Download the zip file and extract it in a folder
+* Open terminal and change the directory in the folder where the zip file was extracted
+* Run `npm i` to download the depedencies
+* Run `npm start`.
+* Choose one of `facebook` or `google` account to login
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
+## Note:
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
-
-### Bonus - E-mail notifications
-
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+In case of login with facebook
