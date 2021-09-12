@@ -10,4 +10,4 @@ For running the app on your local pc, follow these steps:
 
 ## Note:
 
-In case of login with facebook
+In case of login with facebook the account settings might not allow for auth. In those cases, try login with google.
